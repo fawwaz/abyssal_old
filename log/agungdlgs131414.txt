@@ -1,0 +1,9 @@
+- Memisahkan struktur tiap file page view, yang dulunya 1 file utuh mengandung header,navigation,content,footer dirubah menjadi 1 file mengandung content saja. sedangkan header,navigation,footer dijadikan template tersendiri biar mudah dalam mengubah tampilan html.
+- Tombol Gallery Collection pada footer sudah dibereskan fungsi,tampilannya. 
+- Letak Footer sudah di betulkan menjadi selalu mepet dibawah.
+
+Next things to do :
+- Benerin bagian home (view) -> gambar yang diload masih belum dari database
+- Susun html (view) dari backend.
+- Benerin strucktur login (view) jadi 1 file = 1 bagian.
+- Buat fungsi-fungsi yang belum di implementasi pada journal dan detail journal
